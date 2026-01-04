@@ -12,19 +12,19 @@
 ## Dashboard Screenshots
 
 ### Overview Page
-![Overview Dashboard](<img width="1334" height="752" alt="Page1_overview" src="https://github.com/user-attachments/assets/e257c26e-643a-47d3-89b2-70fbe4899f87" />
+![Overview Dashboard](https://github.com/tdosh/healthcare-etl-powerbi/blob/main/Page1_overview.PNG
 )
 
 ### Patient Demographics
-![Demographics](<img width="1337" height="758" alt="page2_demographics" src="https://github.com/user-attachments/assets/c95c2bee-c7ca-46a9-a0fd-5cf88d2b8768" />
+![Demographics](https://github.com/tdosh/healthcare-etl-powerbi/blob/main/page2_demographics.PNG
 )
 
 ### Billing Analysis
-![Billing](<img width="1343" height="763" alt="page3_billing" src="https://github.com/user-attachments/assets/1f3231e0-f10d-4e5f-95c8-dc15741a9c83" />
+![Billing](https://github.com/tdosh/healthcare-etl-powerbi/blob/main/page3_billing.PNG
 )
 
 ### Medical Insights
-![Insights](<img width="1340" height="758" alt="page4_medinsight" src="https://github.com/user-attachments/assets/527320b3-bc05-4642-80eb-be2915fa7031" />
+![Insights](https://github.com/tdosh/healthcare-etl-powerbi/blob/main/page4_medinsight.PNG
 )
 
 ## Technologies Used
